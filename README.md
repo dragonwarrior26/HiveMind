@@ -1,2 +1,2 @@
 # HiveMind
-Intenship Assignment 
+Internship Assignment 
